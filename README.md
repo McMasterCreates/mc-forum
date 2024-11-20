@@ -1,5 +1,6 @@
-Project Goal
+###Project Goal
 
+Description: 
 Build a simple forum-like website where users can register, log in, create posts, comment on posts, and view discussions.
 Tech Stack (suggested)
 
