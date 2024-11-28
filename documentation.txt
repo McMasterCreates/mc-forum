@@ -1,0 +1,23 @@
+What is a Forum?
+A forum is a place where people can discuss and exhange information. McMaster Creates aims to create an online forum that can allow participants to effectively work on their projects.
+
+Necessary Features of McMaster Forum:
+
+
+User Accounts:
+
+Moderation Tools:
+
+Messaging:
+
+Posts:
+
+Categories:
+
+Two-Factor Authentication:
+
+Password Encryption:
+
+Database(FireBase):
+
+Continued...
