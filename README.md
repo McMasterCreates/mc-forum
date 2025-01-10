@@ -23,7 +23,7 @@ Goal: Lay the groundwork for the project.
         Kush: Initialize the Node.js project, install Express, set up basic routes (/api endpoint).
 
     Set Up Frontend
-        Nadeem & Haniya: Scaffold the React app, set up basic file structure, and ensure routing (e.g., Home, Register, Login).
+        Nadeem: Scaffold the React app, set up basic file structure, and ensure routing (e.g., Home, Register, Login).
 
     Database Selection & Setup
         Marco: Choose and set up MongoDB or Firebase. Create sample schemas (e.g., User, Post, Comment).
@@ -42,7 +42,7 @@ Goal: Enable user registration and login.
         Kush: Build API routes for user registration and handle password encryption (e.g., bcrypt).
 
     Frontend for Registration
-        Nadeem & Haniya: Create the registration form with proper validations.
+        Nadeem: Create the registration form with proper validations.
 
     Login Backend
         Kush: Create the login endpoint and return JWT tokens for authentication.
@@ -61,7 +61,7 @@ Goal: Implement the core functionality: creating posts and commenting.
         Marco: Create the Post schema (fields: title, content, author, timestamp) and API routes for CRUD operations.
 
     Frontend for Creating Posts
-        Nadeem & Haniya: Build a form to create posts and display them on the main page.
+        Nadeem: Build a form to create posts and display them on the main page.
 
     Comment Schema & API
         Kush: Create the Comment schema (fields: content, author, postId, timestamp) and API routes.
@@ -70,7 +70,7 @@ Goal: Implement the core functionality: creating posts and commenting.
         Nadeem: Add functionality to display comments under posts and enable adding new comments.
 
     Styling
-        Haniya: Add basic styling to make the forum visually appealing.
+        Open to anyone: Add basic styling to make the forum visually appealing.
 
 Week 4: Polish, Testing, and Deployment
 
@@ -80,7 +80,7 @@ Goal: Refine the project, fix bugs, and deploy the final product.
         Kush & Marco: Review code, resolve bugs, and ensure all features work as expected.
 
     Frontend Improvements
-        Nadeem & Haniya: Optimize the UI/UX based on feedback.
+        Nadeem: Optimize the UI/UX based on feedback.
 
     Testing
         Marco: Perform end-to-end testing for all functionalities (user authentication, posts, comments).
@@ -89,4 +89,4 @@ Goal: Refine the project, fix bugs, and deploy the final product.
         Nadeem: Deploy the fully functional forum on a hosting platform.
 
     Documentation
-        Haniya: Write a basic README.md file describing the project, installation steps, and features.
+        Open to anyone: Write a basic README.md file describing the project, installation steps, and features.
