@@ -11,13 +11,21 @@ Moderation Tools:
 Messaging:
 
 Posts:
+  - Will contain the necessary tools to allow for posting such as pictures, text, or any additional needs that a post may require.
 
 Categories:
+  - Classifying people according to majors or the type of project they are building (Only people in software are notified of updates in the software team or of any posts)
 
 Two-Factor Authentication:
 
 Password Encryption:
 
 Database(FireBase):
+
+Firebase Functions:
+  -Sending emails to others when a post is made
+  -Notifying people that they need to start working in order to maintain a streak so that they maintain interest
+  -Sending emails to mcmaster creates team when any post is made for moderation and safety
+
 
 Continued...
