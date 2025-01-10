@@ -3,29 +3,52 @@ A forum is a place where people can discuss and exhange information. McMaster Cr
 
 Necessary Features of McMaster Forum:
 
-
 User Accounts:
+  - 
 
 Moderation Tools:
+  - be able to remove someone from the forum or be able to remove a post.
 
-Messaging:
+Messaging (optional):
+  - Allow for messaging between two or more people (group chat) 
 
 Posts:
   - Will contain the necessary tools to allow for posting such as pictures, text, or any additional needs that a post may require.
+  - Each post will have an option to comment
+  - (optional) add ability to react to a post
+  - (optional) have an option to post on general (all categories) or post within a specific category
 
 Categories:
   - Classifying people according to majors or the type of project they are building (Only people in software are notified of updates in the software team or of any posts)
+  - add a filter to show posts from only a specific category
 
-Two-Factor Authentication:
+Two-Factor Authentication (optional):
+  - (optional) create a 2 factor authentication whena  new member signs up or they sign up from a device that is not already registered
 
 Password Encryption:
+  - using symmetric encryption, asymmetric encryption, and hashing (up to the persons preference) to encrypt user passwords and store them within a secure database
 
 Database(FireBase):
+  - be able to store user information such as name, year, email, passwords and category as well as update in real time when a post is made or a member joins.
 
 Firebase Functions:
   -Sending emails to others when a post is made
   -Notifying people that they need to start working in order to maintain a streak so that they maintain interest
   -Sending emails to mcmaster creates team when any post is made for moderation and safety
+
+
+
+Different Features of the Forum:
+
+Create a post:
+
+Send Message:
+
+Announcements:
+
+Notifications:
+
+Home (Viewing posts):
 
 
 Continued...
